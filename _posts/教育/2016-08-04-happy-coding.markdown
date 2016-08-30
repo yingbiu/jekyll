@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "终于有了自己的域名，呜～～开心开心"
-date:   2016-08-04 20:00:14 -0400
-categories: jekyll update
+title: Python
+categories: [教育]
+tags: [菜谱, 家居]
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

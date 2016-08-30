@@ -7,15 +7,47 @@
 
 # Site settings
 title: Life Hacker
-email: charlotte_web@qq.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: lying.web@gmail.com
+description: My personal note-blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
+url: "http://yingbiu.com" # the base hostname & protocol for your site
+twitter_username: yingbiu
+github_username:  yingbiu
 # Build settings
 markdown: kramdown
+
+# gavatar头像及Favicon
+gavatar: /public/img/gavatar.jpg
+favicon: /public/img/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-55089304-1
+  url: http://blog.jimmylv.info
+
+# disqus 设置
+disqus:
+  shortname: gotoshare
+
+# 主题设置，自动激活某个标签
+active: 编程
+
+# 首页除了最新文章外显示分类
+cates:
+  - React
+  - EDM
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
