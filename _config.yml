@@ -21,9 +21,9 @@ gavatar: /public/img/gavatar.jpg
 favicon: /public/img/favicon.ico
 
 # google analytics 设置
-ga:
-  id: UA-55089304-1
-  url: http://yingbiu.com
+#ga:
+#  id: UA-55089304-1
+#  url: http://yingbiu.com
 
 # disqus 设置
 disqus:
@@ -48,6 +48,6 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
