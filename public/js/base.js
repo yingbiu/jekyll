@@ -68,6 +68,7 @@ $(document).ready(function() {
   $('body').on('click', '.show-commend', function(){
     var ds_loaded = false;
     window.disqus_shortname = $('.show-commend').attr('name');
+    console.log(disqus_shortname);
     $.ajax({
       type: "GET",
       url: "http://" + disqus_shortname + ".disqus.com/embed.js",
