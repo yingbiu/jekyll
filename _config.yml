@@ -23,7 +23,7 @@ favicon: /public/img/favicon.ico
 # google analytics 设置
 ga:
   id: UA-55089304-1
-  url: http://blog.jimmylv.info
+  url: http://yingbiu.com
 
 # disqus 设置
 disqus:
