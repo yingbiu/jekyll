@@ -1,8 +1,8 @@
 ---
 layout: post
 title: George and Jonathon
-categories: [生活]
-tags: [菜谱, 家居]
+categories: [电子乐]
+tags: [EDM, 数据可视化]
 published: True
 
 ---
