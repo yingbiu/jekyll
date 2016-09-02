@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0714d0b-3f10-4c81-a5f2-613150331f6d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2015-04-30-how-to-use-dns.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2015-04-30-how-to-use-gitignore-to-ignore-idea-file.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2015-08-16-find-some-way-i-can-push-all-knowledge-together.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2015-09-16-improve-work-writing-process.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2015-11-12-how-to-implement-addtocalendar-using-javascript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/angular-week.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-18-python-to-java-03.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-18-python-to-java-04.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-18-python-to-java-05.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-18-python-to-java-06.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-18-python-to-java-07.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-19-python-to-java-08.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-19-python-to-java-09.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/python-to-java/2014-11-19-python-to-java-10.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/quick-note.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/quick-to-create-new-js-project.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/wiki.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/write-in-mac-os-x.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/教育/2015-08-16-introduction-about-tagine.md" afterPath="$PROJECT_DIR$/_posts/教育/2016-06-01-grownup-thoughts.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/教育/2016-08-04-happy-coding.markdown" afterPath="$PROJECT_DIR$/_posts/工具/2016-08-04-jekyll.markdown" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/生活/2015-08-16-introduction-about-tagine.md" afterPath="$PROJECT_DIR$/_posts/生活/2015-09-1-trip-plan.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/生活/2016-08-04-happy-coding.markdown" afterPath="$PROJECT_DIR$/_posts/数据/2016-08-14-why-i-like-data.markdown" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/电子乐/2015-08-16-introduction-about-tagine.md" afterPath="$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/电子乐/2016-08-04-happy-coding.markdown" afterPath="$PROJECT_DIR$/_posts/智能/2016-08-04-why-i-love-AI.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.html" afterPath="$PROJECT_DIR$/pages/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md" afterPath="$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md" afterPath="$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md" />
     </list>
     <ignored path="yingbiu.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,16 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2016-07-16-hair-cut.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md">
           <provider editor-type-id="MarkdownPreviewEditor">
@@ -71,6 +36,25 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.137931">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownHtmlEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-08-16-why-we-love-EDM.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27586207">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -99,26 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-08-16-why-we-love-EDM.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="MultiMarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.6206896">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MultiMarkdownHtmlEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-08-14-why-i-like-data.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-08-14-why-i-like-data.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/数据/2016-08-14-why-i-like-data.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
@@ -127,8 +92,27 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11029412">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state vertical-scroll-proportion="-4.137931">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownHtmlEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-06-01-grownup-thoughts.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/教育/2016-06-01-grownup-thoughts.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -146,7 +130,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6785715">
+            <state vertical-scroll-proportion="-5.172414">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -203,7 +187,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875">
+            <state vertical-scroll-proportion="-3.6206896">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -222,7 +206,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.37931">
+            <state vertical-scroll-proportion="-31.862068">
               <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
@@ -259,15 +243,15 @@
         <option value="$PROJECT_DIR$/pages/about.html" />
         <option value="$PROJECT_DIR$/_posts/数据/2016-08-04-happy-coding.markdown" />
         <option value="$PROJECT_DIR$/_posts/生活/2015-07-16-trip-plan.md" />
-        <option value="$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md" />
         <option value="$PROJECT_DIR$/_posts/数据/2016-08-14-stanford-notes.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md" />
         <option value="$PROJECT_DIR$/_posts/生活/2015-09-1-trip-plan.md" />
         <option value="$PROJECT_DIR$/_posts/生活/2015-07-16-noodle-plan.md" />
         <option value="$PROJECT_DIR$/_posts/智能/2016-08-04-why-i-love-AI.markdown" />
         <option value="$PROJECT_DIR$/_posts/数据/2016-08-14-why-i-like-data.markdown" />
         <option value="$PROJECT_DIR$/_posts/数据/2016-07-14-stanford-notes.markdown" />
+        <option value="$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md" />
+        <option value="$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md" />
       </list>
     </option>
   </component>
@@ -1001,23 +985,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/工具/2015-04-06-gif.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.37931">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41707316">
@@ -1029,16 +996,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/教育/2016-06-01-grownup-thoughts.md">
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/工具/2015-04-06-gif.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.586207">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state vertical-scroll-proportion="-31.862068">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1063,7 +1038,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md">
+    <entry file="file://$PROJECT_DIR$/_posts/教育/2016-06-01-grownup-thoughts.md">
       <provider editor-type-id="MultiMarkdownPreviewEditor">
         <state />
       </provider>
@@ -1071,8 +1046,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6206896">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -1080,19 +1055,28 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md">
+    <entry file="file://$PROJECT_DIR$/_posts/数据/2016-07-14-stanford-notes.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.172414">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/数据/2016-08-14-why-i-like-data.markdown">
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
@@ -1113,25 +1097,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
+        <state vertical-scroll-proportion="-3.6206896">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/生活/2015-09-1-trip-plan.md">
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6551723">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1156,16 +1123,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/数据/2016-07-14-stanford-notes.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_posts/生活/2015-09-1-trip-plan.md">
       <provider editor-type-id="MultiMarkdownPreviewEditor">
         <state />
       </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6785715">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.6551723">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1173,7 +1140,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/数据/2016-08-14-why-i-like-data.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/生活/2016-07-16-hair-cut.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.137931">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/电子乐/2015-08-16-why-we-love-EDM.md">
       <provider editor-type-id="MultiMarkdownPreviewEditor">
         <state />
       </provider>
@@ -1181,8 +1165,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11029412">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.27586207">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
